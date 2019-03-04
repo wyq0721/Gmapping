@@ -1,2 +1,2 @@
 # Gmapping
-Matlab, slam
+- This project is written by wyq<771806310@qq.com>. 
