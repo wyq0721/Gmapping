@@ -1,6 +1,6 @@
-%% v2: UI adds imagine show
+%% v2: imagine show
 
-%% data set 1 seattle
+%% data set 1 'seattle'
 clear;
 clc;
 
@@ -108,7 +108,7 @@ end
 
 
 
-%% data set 2 workshop
+%% data set 2 'workshop'
 % clear;
 % clc;
 % 
