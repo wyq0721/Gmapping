@@ -1,3 +1,12 @@
+%% Script description: Test for image show
+%===============================================================================
+% INPUT:
+% @data         the data resulted from Gmapping
+% OUTPUT:
+% map           show the complete map
+% DATE:         2018/12/24 wyq
+%===============================================================================
+
 
 %% workshop
 % clear 
