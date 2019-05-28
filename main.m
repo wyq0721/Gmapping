@@ -18,7 +18,7 @@ switch example
   case 1      
     DatasetName = 'seattle';  % Indoor
   case 2      
-    DatasetName = 'Workshop';  % Indoor
+    DatasetName = 'workshop';  % Indoor
 end
 
 if strcmp(DatasetName, 'seattle')
